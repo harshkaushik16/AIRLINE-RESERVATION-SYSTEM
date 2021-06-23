@@ -1,12 +1,4 @@
-#include<iostream>
-#include<cstdio>
-#include<fstream>
-#include<sstream>
-#include<string>
-#include<cstdlib>
-#include<conio.h>
-#include<windows.h>
-#include<mysql.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 // Global Variable
